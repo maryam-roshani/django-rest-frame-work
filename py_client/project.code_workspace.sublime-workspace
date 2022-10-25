@@ -1,0 +1,912 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"return"
+			],
+			[
+				"Pr",
+				"ProductSerializer"
+			],
+			[
+				"a",
+				"args"
+			],
+			[
+				"prod",
+				"product_id"
+			],
+			[
+				"pro",
+				"product_id"
+			],
+			[
+				"Pro",
+				"ProductSerializer"
+			],
+			[
+				"vie",
+				"product_detail_view"
+			],
+			[
+				"P",
+				"ProductSerializer"
+			],
+			[
+				"jso",
+				"JsonResponse"
+			],
+			[
+				"model",
+				"model_data"
+			],
+			[
+				"mod",
+				"model_to_dict"
+			],
+			[
+				"ta",
+				"task"
+			],
+			[
+				"T",
+				"TodoTaskSerializer"
+			],
+			[
+				"D",
+				"DetailView"
+			],
+			[
+				"p",
+				"POST"
+			],
+			[
+				"js",
+				"json_string"
+			],
+			[
+				"j",
+				"json_string"
+			],
+			[
+				"top",
+				"topic-list"
+			],
+			[
+				"d",
+				"datalist\tTag"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"tr",
+				"True"
+			],
+			[
+				"m",
+				"Model"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"me",
+				"members"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"U",
+				"UserCreationForm"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"auth",
+				"authenticate"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"Roo",
+				"RoomForm"
+			],
+			[
+				"s",
+				"submit"
+			],
+			[
+				"lo",
+				"logout"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"r",
+				"rooms"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"C",
+				"CreateForm"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"ba",
+				"background-repeat\tproperty"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"art",
+				"article_views"
+			],
+			[
+				"ar",
+				"article_views"
+			],
+			[
+				"log",
+				"login_required"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"A",
+				"Article"
+			],
+			[
+				"co",
+				"Contacts"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"book",
+				"book_list"
+			],
+			[
+				"q",
+				"Question"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"box-",
+				"box-shadow\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"ls",
+				"lst2"
+			],
+			[
+				"new",
+				"new_list"
+			],
+			[
+				"lst",
+				"lst2"
+			],
+			[
+				"draw",
+				"draw_info"
+			],
+			[
+				"sor",
+				"sorting_algo_name"
+			],
+			[
+				"sortin",
+				"sorting_algorithm"
+			],
+			[
+				"y",
+				"yield"
+			],
+			[
+				"descendin",
+				"Descending_sort"
+			],
+			[
+				"G",
+				"GREEN"
+			],
+			[
+				"so",
+				"sorting_algo_name"
+			],
+			[
+				"dr",
+				"draw"
+			],
+			[
+				"sorting_",
+				"sorting_algorithm_generator"
+			],
+			[
+				"color",
+				"color_positions"
+			],
+			[
+				"dra",
+				"draw_info"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"as",
+				"ascending"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"set",
+				"set_list"
+			],
+			[
+				"bloc",
+				"block_height"
+			],
+			[
+				"blo",
+				"block_width"
+			],
+			[
+				"ge",
+				"generate_starting_list"
+			],
+			[
+				"min",
+				"min_val"
+			],
+			[
+				"max",
+				"max_val"
+			],
+			[
+				"py",
+				"pygame"
+			],
+			[
+				"ra",
+				"range"
+			],
+			[
+				"random",
+				"randomlist"
+			],
+			[
+				"conting",
+				"countingSort"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/MILAD/Desktop/django/project/project.code_workspace.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/MILAD/Desktop/django/project/requirements.txt",
+			"settings":
+			{
+				"buffer_size": 41,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/MILAD/Desktop/django/project/project1/rooms/api/urls.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/MILAD/Desktop/django/project/project1/rooms/api/views.py",
+			"settings":
+			{
+				"buffer_size": 161,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/MILAD/Desktop/django/project/project1/rooms/api/serializers.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/MILAD/Desktop/django/project/project1/rooms/views.py",
+			"settings":
+			{
+				"buffer_size": 5684,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ui",
+				"UI: Select Skin"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/MILAD/Desktop/django/project",
+		"/C/Users/MILAD/Desktop/django/project/project1",
+		"/C/Users/MILAD/Desktop/django/project/project1/rooms",
+		"/C/Users/MILAD/Desktop/django/project/project1/rooms/api"
+	],
+	"file_history":
+	[
+		"/C/Users/MILAD/Desktop/django/project/project1/rooms/api/__init__.py",
+		"/C/Users/MILAD/Desktop/dev/drf/py_client/create.py",
+		"/C/Users/MILAD/Desktop/dev/drf/py_client/list.py",
+		"/C/Users/MILAD/Desktop/dev/drf/py_client/update.py",
+		"/C/Users/MILAD/Desktop/dev/drf/py_client/detail.py",
+		"/C/Users/MILAD/Desktop/dev/drf/backend/restlearning/products/serializers.py",
+		"/C/Users/MILAD/Desktop/dev/drf/backend/restlearning/products/models.py",
+		"/C/Users/MILAD/Desktop/dev/drf/backend/restlearning/restlearning/urls.py",
+		"/C/Users/MILAD/Desktop/dev/drf/backend/restlearning/api/views.py",
+		"/C/Users/MILAD/Desktop/dev/drf/backend/restlearning/products/urls.py",
+		"/C/Users/MILAD/Desktop/dev/drf/py_client/delete.py",
+		"/C/Users/MILAD/Desktop/dev/drf/backend/restlearning/products/admin.py",
+		"/C/Users/MILAD/Desktop/dev/drf/backend/restlearning/products/views.py",
+		"/C/Users/MILAD/Desktop/dev/drf/py_client/basic.py",
+		"/C/Users/MILAD/Desktop/dev/todo-list/src/todo/urls.py",
+		"/C/Users/MILAD/Desktop/dev/drf/backend/restlearning/api/urls.py",
+		"/C/Users/MILAD/Desktop/dev/drf/backend/restlearning/restlearning/settings.py",
+		"/C/Users/MILAD/Desktop/dev/todo-list/src/task/api/urls.py",
+		"/C/Users/MILAD/Desktop/dev/todo-list/src/task/api/views.py",
+		"/C/Users/MILAD/Desktop/dev/todo-list/src/task/api/serializers.py",
+		"/C/Users/MILAD/Desktop/dev/todo-list/src/todo/settings.py",
+		"/C/Users/MILAD/Desktop/dev/todo-list/src/task/urls.py",
+		"/C/Users/MILAD/Desktop/dev/todo-list/src/task/admin.py",
+		"/C/Users/MILAD/Desktop/dev/todo-list/src/templates/base.html",
+		"/C/Users/MILAD/Desktop/dev/todo-list/src/task/forms.py",
+		"/C/Users/MILAD/Desktop/dev/todo-list/src/templates/task/index.html",
+		"/C/Users/MILAD/Desktop/dev/todo-list/src/templates/task/detail.html",
+		"/C/Users/MILAD/Desktop/django/project1/project1/urls.py",
+		"/C/Users/MILAD/Desktop/dev/todo-list/src/task/views.py",
+		"/C/Users/MILAD/Desktop/dev/todo-list/src/task/models.py",
+		"/C/Users/MILAD/Desktop/dev/todo-list/src/task/api/__init__.py",
+		"/C/Users/MILAD/Desktop/django/project1/templates/base.html",
+		"/H/maryam/programming/python/json/data2.json",
+		"/H/maryam/programming/python/json/dataa.json",
+		"/H/maryam/programming/python/json/data.html",
+		"/H/maryam/programming/python/json/data2.py",
+		"/H/maryam/programming/python/json/data.json",
+		"/H/maryam/programming/python/json/data.py",
+		"/C/Users/MILAD/AppData/Local/Postman/app-9.3.1/vk_swiftshader_icd.json",
+		"/C/Users/MILAD/AppData/Local/Postman/app-9.3.1/libGLESv2.dll",
+		"/C/Users/MILAD/AppData/Local/Postman/app-9.3.1/resources.pak",
+		"/H/maryam/programming/python/json/data3.py",
+		"/H/maryam/programming/python/json/new_data.py",
+		"/H/maryam/programming/python/json/jfile.py",
+		"/C/Users/MILAD/Desktop/django/project1/rooms/templates/rooms/activity_component.html",
+		"/C/Users/MILAD/Desktop/django/project1/rooms/forms.py",
+		"/C/Users/MILAD/Desktop/django/project1/rooms/models.py",
+		"/C/Users/MILAD/Desktop/django/project1/rooms/templates/rooms/room.html",
+		"/C/Users/MILAD/Desktop/django/project1/rooms/templates/rooms/rooms.html",
+		"/C/Users/MILAD/Desktop/django/project1/rooms/templates/rooms/roomCreate.html",
+		"/C/Users/MILAD/Desktop/django/project1/rooms/templates/rooms/dd.html",
+		"/C/Users/MILAD/Desktop/django/project1/rooms/templates/rooms/book_creation.html",
+		"/C/Users/MILAD/Desktop/django/project1/rooms/templates/rooms/profile.html",
+		"/C/Users/MILAD/Desktop/django/project1/rooms/templates/rooms/feed_component.html",
+		"/C/Users/MILAD/Desktop/django/project1/rooms/urls.py",
+		"/C/Users/MILAD/Desktop/theme/style.css",
+		"/C/Users/MILAD/Desktop/django/project1/rooms/views.py",
+		"/C/Users/MILAD/Desktop/django/project1/rooms/templates/rooms/topic_component.html",
+		"/C/Users/MILAD/Desktop/theme/theme",
+		"/C/Users/MILAD/Desktop/django/project1/static/styles/main.css",
+		"/C/Users/MILAD/Desktop/django/project1/static/js/script.js",
+		"/C/Users/MILAD/Desktop/django/project1/project1/settings.py",
+		"/C/Users/MILAD/Desktop/theme/script.js",
+		"/C/Users/MILAD/Desktop/django/final/myApp/views.py",
+		"/C/Users/MILAD/Desktop/django/project1/project1/login.html",
+		"/C/Users/MILAD/Desktop/django/online_shop/static/styles.css",
+		"/C/Users/MILAD/Desktop/django/online_shop/templates/login.html",
+		"/C/Users/MILAD/Desktop/django/secondOne/members/templates/roomEdit.html",
+		"/C/Users/MILAD/Desktop/django/online_shop/category/urls.py",
+		"/C/Users/MILAD/Desktop/django/online_shop/category/views.py",
+		"/C/Users/MILAD/Desktop/django/online_shop/category/templates/category/products.html",
+		"/C/Users/MILAD/Desktop/django/online_shop/category/templates/category/product.html",
+		"/C/Users/MILAD/Desktop/django/online_shop/templates/home.html",
+		"/C/Users/MILAD/Desktop/django/online_shop/templates/navbar.html",
+		"/C/Users/MILAD/Desktop/django/online_shop/example.html",
+		"/C/Users/MILAD/Desktop/django/online_shop/category/models.py",
+		"/C/Users/MILAD/Desktop/django/online_shop/online_shop/views.py",
+		"/C/Users/MILAD/Desktop/django/online_shop/online_shop/settings.py",
+		"/C/Users/MILAD/Desktop/django/online_shop/online_shop/urls.py",
+		"/C/Users/MILAD/Desktop/django/secondOne/members/templates/room.html",
+		"/C/Users/MILAD/Desktop/django/secondOne/members/views.py",
+		"/C/Users/MILAD/Desktop/django/secondOne/members/urls.py",
+		"/C/Users/MILAD/Desktop/django/online_shop/product/views.py",
+		"/C/Users/MILAD/Desktop/django/online_shop/product/urls.py",
+		"/C/Users/MILAD/Desktop/django/maryamproject/mimi/admin.py",
+		"/C/Users/MILAD/Desktop/django/secondOne/members/templates/loginP.html",
+		"/C/Users/MILAD/Desktop/django/online_shop/templates/manage.py",
+		"/C/Users/MILAD/Desktop/django/secondOne/members/templates/roomDelete.html",
+		"/C/Users/MILAD/Desktop/django/secondOne/members/templates/rooms.html",
+		"/C/Users/MILAD/Desktop/django/secondOne/members/templates/roomCreate.html",
+		"/C/Users/MILAD/Desktop/django/secondOne/secondOne/views.py",
+		"/C/Users/MILAD/Desktop/django/secondOne/static/styles.css",
+		"/C/Users/MILAD/Desktop/django/secondOne/templates/base.html",
+		"/C/Users/MILAD/Desktop/django/secondOne/secondOne/settings.py",
+		"/C/Users/MILAD/Desktop/django/secondOne/members/forms.py",
+		"/C/Users/MILAD/Desktop/django/secondOne/members/admin.py",
+		"/C/Users/MILAD/Desktop/django/secondOne/members/models.py",
+		"/C/Users/MILAD/Desktop/django/secondOne/secondOne/urls.py",
+		"/C/Users/MILAD/Desktop/django/second/social/views.py",
+		"/C/Users/MILAD/Desktop/django/second/templates/base.html",
+		"/C/Users/MILAD/Desktop/django/second/social/templates/social/login_user.html",
+		"/H/maryam/programming/python/small projects/Django/maryamproject/books/urls.py",
+		"/H/maryam/programming/python/small projects/Django/maryamproject/books/models.py",
+		"/H/maryam/programming/python/small projects/Django/maryamproject/account/urls.py",
+		"/H/maryam/programming/python/small projects/Django/maryamproject/account/views.py",
+		"/H/maryam/programming/python/small projects/Django/maryamproject/maryamproject/views.py",
+		"/H/maryam/programming/python/small projects/Django/maryamproject/static/styles.css",
+		"/H/maryam/programming/python/small projects/Django/maryamproject/books/forms.py",
+		"/H/maryam/programming/python/small projects/Django/maryamproject/books/templates/books/book_create.html",
+		"/H/maryam/programming/python/small projects/Django/maryamproject/account/templates/account/signup.html",
+		"/H/maryam/programming/python/small projects/Django/maryamproject/account/templates/account/login.html",
+		"/H/maryam/programming/python/small projects/Django/maryamproject/maryamproject/settings.py",
+		"/H/maryam/programming/python/small projects/Django/maryamproject/maryamproject/urls.py",
+		"/H/maryam/programming/python/small projects/Django/maryamproject/books/templates/books/book_list.html",
+		"/H/maryam/programming/python/small projects/Django/maryamproject/books/templates/books/book_detail.html",
+		"/H/maryam/programming/python/small projects/Django/maryamproject/templates/base_layout.html",
+		"/H/maryam/programming/python/small projects/Django/maryamproject/books/views.py",
+		"/C/Users/MILAD/Desktop/django/final/final/views.py",
+		"/C/Users/MILAD/Desktop/django/final/final/urls.py",
+		"/C/Users/MILAD/Desktop/django/second/templates/home.html",
+		"/C/Users/MILAD/Desktop/django/second/social/templates/social/detail.html",
+		"/C/Users/MILAD/Desktop/django/second/second/views.py",
+		"/C/Users/MILAD/Desktop/django/second/second/settings.py",
+		"/C/Users/MILAD/Desktop/django/second/second/urls.py",
+		"/C/Users/MILAD/Desktop/django/second/social/urls.py",
+		"/C/Users/MILAD/Desktop/django/second/social/admin.py",
+		"/C/Users/MILAD/Desktop/django/second/social/models.py",
+		"/C/Users/MILAD/Desktop/django/second/social/templates/social/detail1.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" \"",
+			"QuerySet",
+			"rest_framework",
+			"rest_frameworktask"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\MILAD\\Desktop\\dev"
+		},
+		{
+			"path": "C:\\Users\\MILAD\\Desktop\\django\\project"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/MILAD/Desktop/django/project/project.code_workspace.sublime-workspace",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/MILAD/Desktop/django/project/requirements.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/MILAD/Desktop/django/project/project1/rooms/api/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/MILAD/Desktop/django/project/project1/rooms/api/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/MILAD/Desktop/django/project/project1/rooms/api/serializers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/MILAD/Desktop/django/project/project1/rooms/views.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 182.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
